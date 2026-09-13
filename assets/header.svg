@@ -1,0 +1,9 @@
+<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg">
+<style>.t{font:500 38px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#303744;letter-spacing:1px}.s{font:400 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#7c8795;letter-spacing:1.2px}.line{stroke:#cfd6de;stroke-width:1;fill:none}.dot{fill:#8793a2}.tiny{fill:#b7c0ca}.leaf{stroke:#a7b1bd;stroke-width:1;fill:none;stroke-linecap:round;stroke-linejoin:round}@media(prefers-color-scheme:dark){.t{fill:#d7dde5}.s{fill:#8f9aa8}.line{stroke:#3c4652}.dot{fill:#8f9aa8}.tiny{fill:#596472}.leaf{stroke:#697584}}.float1{animation:f1 5s ease-in-out infinite}.float2{animation:f2 7s ease-in-out infinite}.blink{animation:b 3s ease-in-out infinite}@keyframes f1{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes f2{0%,100%{transform:translateY(0)}50%{transform:translateY(4px)}}@keyframes b{0%,100%{opacity:.25}50%{opacity:.9}}</style>
+<rect x="1" y="1" width="898" height="208" rx="18" fill="none" stroke="#d8dee6" opacity=".55"/>
+<text class="t" x="62" y="92">lxy426329</text><text class="s" x="64" y="120">little experiments, half-finished thoughts, and other wandering things</text>
+<path class="line" d="M560 104 C620 42 708 49 760 103 C803 148 746 177 680 142 C626 114 649 70 708 74" opacity=".7"/>
+<g class="float1"><circle class="dot" cx="566" cy="100" r="4"/><circle class="tiny" cx="604" cy="75" r="2"/></g><g class="float2"><circle class="dot" cx="758" cy="104" r="4"/><circle class="tiny" cx="718" cy="148" r="2.5"/></g>
+<circle class="blink" cx="665" cy="56" r="2.5" fill="#9aa5b3"/><circle class="blink" cx="808" cy="68" r="2" fill="#9aa5b3" style="animation-delay:1.2s"/>
+<path class="leaf" d="M824 153 C838 141 847 129 850 113 M839 137 C826 136 821 128 837 128 M845 124 C856 116 864 120 849 130" opacity=".7"/><path class="leaf" d="M90 159 C75 150 69 139 68 126 M76 146 C88 145 93 138 78 137" opacity=".45"/>
+</svg>

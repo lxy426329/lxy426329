@@ -1,0 +1,8 @@
+<svg width="900" height="135" viewBox="0 0 900 135" xmlns="http://www.w3.org/2000/svg">
+<style>.h{font:500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#4d5662}.s{font:400 10px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#8a939e}.l{stroke:#d9dfe5;stroke-width:1}.i{fill:none;stroke:#8995a3;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}@media(prefers-color-scheme:dark){.h{fill:#cbd2da}.s{fill:#8c97a4}.l{stroke:#39424c}.i{stroke:#8c97a4}}</style>
+<line class="l" x1="225" y1="24" x2="225" y2="108"/><line class="l" x1="450" y1="24" x2="450" y2="108"/><line class="l" x1="675" y1="24" x2="675" y2="108"/>
+<g transform="translate(40 36)"><path class="i" d="M3 5 L12 14 L3 23 M16 23 H27"/><text class="h" x="42" y="16">code</text><text class="s" x="42" y="36">things that almost work</text></g>
+<g transform="translate(265 36)"><path class="i" d="M4 4 H25 V25 H4 Z M8 9 H21 M8 14 H18 M8 19 H16"/><text class="h" x="42" y="16">notes</text><text class="s" x="42" y="36">things I might need later</text></g>
+<g transform="translate(490 36)"><path class="i" d="M14 3 C4 3 3 14 7 20 C10 25 18 25 21 20 C25 14 24 3 14 3 Z M9 10 C11 8 17 8 19 10"/><text class="h" x="42" y="16">experiments</text><text class="s" x="42" y="36">things nobody asked for</text></g>
+<g transform="translate(715 36)"><path class="i" d="M14 3 C6 3 3 10 5 17 C7 24 21 24 23 17 C25 10 22 3 14 3 Z M10 8 C12 11 16 11 18 8 M9 17 C12 15 17 15 20 17"/><text class="h" x="42" y="16">walnuts</text><text class="s" x="42" y="36">self explanatory</text></g>
+</svg>
