@@ -10,6 +10,10 @@
 
 <img src="./assets/graveyard-live.svg" width="100%" alt="A living project graveyard grown from real repository inactivity" />
 
+<!-- graveyard-links:start -->
+<sub>↗ [visiting paths appear here after the next graveyard run](./graveyard-links.md)</sub>
+<!-- graveyard-links:end -->
+
 <sub>Nothing here is truly dead. Some repositories are just being extremely quiet.</sub>
 
 
