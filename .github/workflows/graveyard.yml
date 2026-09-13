@@ -13,7 +13,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - run: python graveyard.py --user "$GITHUB_REPOSITORY_OWNER" --output assets/graveyard-live.svg
+      - uses: lxy426329/github-graveyard@v0.2.0
+        with:
+          user: lxy426329
+          output: assets/graveyard-live.svg
+          history: graveyard-history.json
+          minimum-days: '30'
+          limit: '8'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
