@@ -8,7 +8,7 @@
 
 ### project graveyard
 
-<img src="./assets/graveyard.svg" width="100%" alt="A tiny project graveyard, watched by a walnut" />
+<img src="./assets/graveyard-live.svg" width="100%" alt="A living project graveyard grown from real repository inactivity" />
 
 <sub>Nothing here is truly dead. Some repositories are just being extremely quiet.</sub>
 
